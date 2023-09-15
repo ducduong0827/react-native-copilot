@@ -1,4 +1,5 @@
 "use strict";
+import * as React from 'react';
 var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __defProps = Object.defineProperties;

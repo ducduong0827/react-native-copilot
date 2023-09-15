@@ -1,5 +1,5 @@
 import { ViewStyle, Animated, NativeMethods, LayoutRectangle, ScrollView } from 'react-native';
-import * as React from 'react';
+import * as React$1 from 'react';
 import React__default, { PropsWithChildren } from 'react';
 import { NativeMethods as NativeMethods$1 } from 'react-native/types';
 import { Emitter } from 'mitt';
